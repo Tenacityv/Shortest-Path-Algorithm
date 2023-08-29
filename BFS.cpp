@@ -1,7 +1,6 @@
 /*
 Author: Hassan Zakery
 Date: 03/23/2023
-Description: Assignment 4 Part 03
 */ 
 #include <stdlib.h>
 #include <stdbool.h>
